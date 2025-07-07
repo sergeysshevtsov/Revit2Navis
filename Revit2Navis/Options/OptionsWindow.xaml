@@ -8,7 +8,8 @@
     xmlns:properties="clr-namespace:Revit2Navis.Properties"
     Title="Navisworks export options"
     ResizeMode="NoResize"
-    WindowStartupLocation="CenterOwner">
+    WindowStartupLocation="CenterOwner"
+    SizeToContent="WidthAndHeight">
     <Window.DataContext>
         <local:OptionWindowDataContext />
     </Window.DataContext>

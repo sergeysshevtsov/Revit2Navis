@@ -27,6 +27,7 @@ public class OptionWindowDataContext
     public ICommand CloseCommand => new RelayCommand<Window>(
         window =>
         {
+            Properties.Settings.Default.Save();
             window?.Close();
         });
 
