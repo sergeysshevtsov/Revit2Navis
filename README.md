@@ -2,3 +2,5 @@ The Revit to Navisworks Exporter plugin enables seamless export of 3D views from
 
 
 To use the Navis exporter you have to install 'navisworks NWC Export Utility': https://www.autodesk.com/products/navisworks/3d-viewers
+
+How to use: https://youtube.com/shorts/GbZHVBmLiHs
