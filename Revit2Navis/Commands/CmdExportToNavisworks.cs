@@ -6,7 +6,6 @@ using System.IO;
 
 namespace Revit2Navis.Commands;
 
-[UsedImplicitly]
 [Transaction(TransactionMode.Manual)]
 public class CmdExportToNavisworks : ExternalCommand
 {

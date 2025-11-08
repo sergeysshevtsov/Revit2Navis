@@ -1,5 +1,8 @@
-﻿using Nice3point.Revit.Toolkit.External;
+﻿using Autodesk.Revit.UI;
+using Nice3point.Revit.Toolkit.External;
 using Revit2Navis.Commands;
+using System.Reflection;
+using System.Windows.Media.Imaging;
 
 namespace Revit2Navis;
 
